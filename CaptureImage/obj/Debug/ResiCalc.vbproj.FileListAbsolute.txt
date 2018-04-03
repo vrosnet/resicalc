@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\resicalc\CaptureImage\bin\Debug\CaptureImage.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\resicalc\CaptureImage\bin\Debug\CaptureImage.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\resicalc\CaptureImage\bin\Debug\CaptureImage.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\resicalc\CaptureImage\obj\Debug\CaptureImage.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\resicalc\CaptureImage\obj\Debug\CaptureImage.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\resicalc\CaptureImage\obj\Debug\ResiCalc.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\resicalc\CaptureImage\obj\Debug\CaptureImage.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\resicalc\CaptureImage\obj\Debug\CaptureImage.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\resicalc\CaptureImage\obj\Debug\CaptureImage.pdb
